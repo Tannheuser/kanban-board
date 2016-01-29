@@ -1,0 +1,20 @@
+.list {
+    list-style-type: none;
+    float: left;
+    margin: 10px 6px;
+    padding: 2px 8px 2px 8px;
+    position: relative;
+    width: 300px;
+}
+
+.list-wrapper {
+    padding: 0px 10px 0px 10px;
+}
+
+.list hr {
+    border-color: #0078D7;
+}
+
+.kb-col-container {
+    margin-top: 100px;
+}
